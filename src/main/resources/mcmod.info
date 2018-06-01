@@ -1,0 +1,16 @@
+[
+{
+  "modid": "helloworld",
+  "name": "Helloworld Mod",
+  "description": "Hikaze's Helloworld Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hikaze"],
+  "credits": "0.0",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
